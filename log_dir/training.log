@@ -1,0 +1,5 @@
+2024-10-16 04:10:21,695 using SwiGLU layer as FFN
+2024-10-16 04:12:44,037 using SwiGLU layer as FFN
+2024-10-16 04:24:33,975 Epoch 0/0 - Loss: 0.4205 Acc: 0.8281
+2024-10-16 04:24:39,948 Model saved at log_dir/epoch0_model.pth
+2024-10-16 04:24:56,774 Training complete
